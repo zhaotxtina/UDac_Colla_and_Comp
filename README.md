@@ -1,4 +1,4 @@
-# Udacity continous control project
+# Udacity Collaboration and Competition project
 
 
 
