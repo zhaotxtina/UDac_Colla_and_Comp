@@ -3,7 +3,7 @@
 
 
 ### Project Overview
-For this project, you will work with the Reacher environment.
+For this project, you will work with the Tennis environment.
 
 ![](images/tennis.gif)
 
