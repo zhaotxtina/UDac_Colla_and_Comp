@@ -57,6 +57,6 @@ The complete steps of results and solutions can be found in the folder. Here is 
 - model.py and maddpg.py: the multi-agent ddpg maddpg pytorch model and agent modules
 - README.md markdown file: Description of project and instructions
 - report_proj_collacomp.html or report_proj_collacomp.pdf: export of the project report with the name Report.html or Report.pdf.
-- model weights files: Contains the model weights of the successful agent, named checkpoint_actor.pth,
-checkpoint_critic.pth
+- model weights files: Contains the model weights of the successful agent, named checkpoint_actor2.pth,
+checkpoint_critic2.pth
 - Images folder: images used for the project agent environment 
